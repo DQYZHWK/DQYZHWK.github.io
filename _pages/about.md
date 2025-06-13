@@ -20,11 +20,12 @@ redirect_from:
 
 I'm working on GUI Agent model training (reinforcement learning) and Agent application (API, GUI, and Hybrid Computer Use Agents). I'll get my master's degree in March 2026. If you have relevant research or engineering job chances, contact me at [dqyzhwk@gmail.com](mailto:dqyzhwk@gmail.com).
 
-I graduated from Zhejiang A&F University with a bachelor's degree, and I was an Acmer (EC-Final 2020). Then I entered Zhejiang University for my master's. My academic advisor is [jingyuanchen](https://scholar.google.com/citations?user=o_G2qa0AAAAJ), and I've done research in information retrieval, image generation, and multimodal understanding with X Google Scholar citations. I have conducted several studies in information retrieval, image generation, and multimodal understanding, with <a href='https://scholar.google.com/citations?user=6ykuTIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on Google Scholar.
+I graduated from Zhejiang A&F University with a bachelor's degree, and I was an Acmer (EC-Final 2020). Then I entered Zhejiang University for my master's. My academic advisor is [jingyuanchen](https://scholar.google.com/citations?user=o_G2qa0AAAAJ), and I have conducted several studies in information retrieval, image generation, and multimodal understanding, with <a href='https://scholar.google.com/citations?user=6ykuTIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on Google Scholar.
 
 
 # 📝 Publications 
 Please reference my [google scholar library](https://scholar.google.com/citations?user=6ykuTIYAAAAJ).
+
 
 
 # 📖 Educations
