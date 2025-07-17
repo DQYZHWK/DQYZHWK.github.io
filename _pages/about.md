@@ -16,16 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 💼 About Me
 
+I am currently engaged in the training of GUI Agent models utilizing reinforcement learning and the application of Agents in GUI-interactive、Tool-interactive、Code-inveractive、Hybrid-inveractive scenarios. I am scheduled to complete my master's degree in March 2026. If you have interests in multimodal understanding, multimodal agents, or online reinforcement learning, I am open to collaborations. Additionally, if you are recruiting researchers or algorithm engineers in these areas, please feel free to contact me at [dqyzhwk@gmail.com](mailto:dqyzhwk@gmail.com).
 
-I'm working on GUI Agent model training (reinforcement learning) and Agent application (API, GUI, and Hybrid Computer Use Agents). I'll get my master's degree in March 2026. If you have relevant research or engineering job chances, contact me at [dqyzhwk@gmail.com](mailto:dqyzhwk@gmail.com).
-
-I graduated from Zhejiang A&F University with a bachelor's degree, and I was an Acmer (EC-Final 2020). Then I entered Zhejiang University for my master's. My academic advisor is [jingyuanchen](https://scholar.google.com/citations?user=o_G2qa0AAAAJ), and I have conducted several studies in information retrieval, image generation, and multimodal understanding, with <a href='https://scholar.google.com/citations?user=6ykuTIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on Google Scholar.
+I obtained my bachelor's degree from Zhejiang A&F University and was an active participant in ACM competitions, reaching the EC-Final in 2020. Subsequently, I pursued my graduate studies at Zhejiang University. My academic advisor is [jingyuanchen](https://scholar.google.com/citations?user=o_G2qa0AAAAJ), and I have independently conducted or collaborated on several research projects in visual generation and multimodal understanding, with <a href='https://scholar.google.com/citations?user=6ykuTIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on Google Scholar.
 
 # 📝 Publications 
 Please reference my [google scholar library](https://scholar.google.com/citations?user=6ykuTIYAAAAJ).
-
-
 
 # ⌛ ACM-ICPC
 - The 2020 ICPC Asia Nanjing Regional Contest, Bronze Medal.
@@ -38,4 +36,4 @@ Please reference my [google scholar library](https://scholar.google.com/citation
 
 
 # 💻 Internships
-- *2025.02 - 2025.08*, Meituan M17, Beijing.
+- *2025.01 - 2025.08*, Meituan M17, Beijing.
