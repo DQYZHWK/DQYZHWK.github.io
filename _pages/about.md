@@ -25,7 +25,8 @@ I obtained my bachelor's degree from Zhejiang A&F University and was an active p
 # 📝 Publications 
 Please reference my [google scholar library](https://scholar.google.com/citations?user=6ykuTIYAAAAJ).
 
-# ⌛ ACM-ICPC
+# 🏅 Honors and Awards
+- National Scholarship (master) (Top 3%).
 - The 2020 ICPC Asia Nanjing Regional Contest, Bronze Medal.
 - The 2020 ICPC Asia Kunming Regional Contest, Sliver Medal.
 - The 2020 ICPC Asia-East Continent Final (**EC-Final**) Contest, Bronze Medal.
@@ -34,6 +35,14 @@ Please reference my [google scholar library](https://scholar.google.com/citation
 - *2023.09 - 2026.03*, Zhejiang University, Hangzhou.
 - *2018.09 - 2022.06*, Zhejiang A&F University, Hangzhou.
 
+# 👨‍🏫 Academic Service
+Conference Reviewer
+- AAAI 2026, ICLR2026
 
-# 💻 Internships
-- *2025.01 - 2025.08*, Meituan M17, Beijing.
+Journal Reviewer
+- TOIS 2026
+
+
+
+# 👨‍💻 Internships
+* *2025.01 - 2025.08*, Meituan M17. Topic: Generalist Multi-modal Agent, EndtoEnd Online RL.
