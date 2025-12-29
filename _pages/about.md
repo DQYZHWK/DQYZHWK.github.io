@@ -18,22 +18,46 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 💼 About Me
 
-I am currently engaged in the training of GUI Agent models utilizing reinforcement learning and the application of Agents in GUI-interactive、Tool-interactive、Code-inveractive、Hybrid-inveractive scenarios. I am scheduled to complete my master's degree in April 2026. If you have interests in multimodal understanding, multimodal agents, or online reinforcement learning, I am open to collaborations. Additionally, if you are recruiting researchers or algorithm engineers in these areas, please feel free to contact me at [dqyzhwk@gmail.com](mailto:dqyzhwk@gmail.com).
+I received my B.S. from Zhejiang A&F University <img src="../assets\logo\zafu.png" alt="ZAFU" style="height: 1.2em; vertical-align: middle;"/>, where I actively participated in ACM competitions and advanced to the 2020 EC-Final. Currently, I am a graduate student (2023.09-2026.03) at Zhejiang University<img src="../assets\logo\zju.png" alt="ZJU" style="height: 1.2em; vertical-align: middle;"/>, advised by [Jingyuan Chen](https://scholar.google.com/citations?user=o_G2qa0AAAAJ). My research focuses on visual generation and multimodal understanding, with <a href='https://scholar.google.com/citations?user=6ykuTIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on Google Scholar.
 
-I obtained my bachelor's degree from Zhejiang A&F University and was an active participant in ACM competitions, reaching the EC-Final in 2020. Subsequently, I pursued my graduate studies at Zhejiang University. My academic advisor is [jingyuanchen](https://scholar.google.com/citations?user=o_G2qa0AAAAJ), and I have independently conducted or collaborated on several research projects in visual generation and multimodal understanding, with <a href='https://scholar.google.com/citations?user=6ykuTIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on Google Scholar.
+
+Building on my internship experience with RL-based GUI Agents, my current research centers on Multimodal Agents within digital environments, spanning web browsers, OS interfaces (PC/Mobile), and gaming scenarios.
+I am particularly driven by three core challenges in this field:
+
+* **Adaptive Reasoning**: Developing mechanisms to adaptively trigger ``thinking mode`` to minimize redundant computation and enhance efficiency.
+
+* **Long-Horizon Memory**: Enabling agents to efficiently store and retrieve action experiences during extended interactions.
+
+* **Real-Time Responsiveness**: Designing low-latency architectures for high-frequency interaction scenarios, such as video games.
+
+I am open to collaborations in multimodal understanding and reinforcement learning. If you are recruiting researchers or algorithm engineers, please feel free to contact me at [dqyzhwk@gmail.com](mailto:dqyzhwk@gmail.com).
+
+
+
 
 # 📝 Publications 
-Please reference my [google scholar library](https://scholar.google.com/citations?user=6ykuTIYAAAAJ).
 
+* ``ACM-MM 2025`` Show and polish: reference-guided identity preservation in face video restoration. **Wenkang Han**, Wang Lin, Jingyuan Chen, et al. 
+
+
+* ``ECML-PKDD 2025`` Revisiting applicable and comprehensive knowledge tracing in large-scale data. Yiyun Zhou, **Wenkang Han**, Jingyuan Chen.
+
+* ``IJCAI 2025`` Contrastive Cross-Course Knowledge Tracing via Concept Graph Guided Knowledge Transfer. **Wenkang Han**, Wang Lin, Jingyuan Chen, et al. 
+
+
+* ``CVPR 2025`` Towards transformer-based aligned generation with self-coherence guidance. Shulei Wang, Wang Lin, Hai Huang, Hanting Wang, Sihang Cai, **WenKang Han**, Zhou Zhao, et al. 
+
+* ``NeurIPS 2024`` $E^3$: Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset. Wang Lin, **Wenkang Han**, Yueying Feng, Jingyuan Chen, et al.
+
+* ``ACL 2024`` Mpcoder: Multi-user personalized code generator with explicit and implicit style representation learning. Zhenlong Dai, Chang Yao, **WenKang Han**, Jingyuan Chen, et al.
+  
 # 🏅 Honors and Awards
-- National Scholarship (master) (Top 3%).
-- The 2020 ICPC Asia Nanjing Regional Contest, Bronze Medal.
-- The 2020 ICPC Asia Kunming Regional Contest, Sliver Medal.
-- The 2020 ICPC Asia-East Continent Final (**EC-Final**) Contest, Bronze Medal.
+- 2025.10 National Scholarship (master) (Top 3%).
+- 2021.4 The 2020 ICPC Asia-East Continent Final (**EC-Final**) Contest, 🥉Bronze Medal.
+- 2021.4 The 2020 ICPC Asia Kunming Regional Contest, 🥈Sliver Medal.
 
-# 📖 Educations
-- *2023.09 - 2026.03*, Zhejiang University, Hangzhou.
-- *2018.09 - 2022.06*, Zhejiang A&F University, Hangzhou.
+- 2020.11 The 2020 ICPC Asia Nanjing Regional Contest, 🥉Bronze Medal.
+
 
 # 👨‍🏫 Academic Service
 Conference Reviewer
@@ -41,7 +65,10 @@ Conference Reviewer
 
 Journal Reviewer
 - TOIS 2026
-
+  
+# 📖 Educations
+- *2023.09 - 2026.03*, Zhejiang University, Hangzhou.
+- *2018.09 - 2022.06*, Zhejiang A&F University, Hangzhou.
 
 
 # 👨‍💻 Internships
