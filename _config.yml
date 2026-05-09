@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenkang Han"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Third-year master in Zhejiang University."
-  location         : "Hangzhou China"
-  employer         : 
+  bio              : "Algorithm Engineer at Tencent."
+  location         : "Shenzhen China"
+  employer         : "Tencent"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6ykuTIYAAAAJ"
-  email            : "wenkangh@zju.edu.cn"
+  email            : "dqyzhwk@gmail.com"
   researchgate     :
   uri              : 
   bitbucket        :
