@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenkang Han"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Algorithm Engineer at Tencent."
+  bio              : "AI Algorithm Engineer at Tencent."
   location         : "Shenzhen China"
   employer         : "Tencent"
   pubmed           : 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/HawkS82382"
   vine             :
   weibo            :
   xing             :

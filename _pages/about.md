@@ -18,17 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 💼 About Me
 
-I received my B.S. from Zhejiang A&F University <img src="../assets\logo\zafu.png" alt="ZAFU" style="height: 1.2em; vertical-align: middle;"/>, where I actively participated in ACM competitions and advanced to the 2020 EC-Final. I obtained my master's degree from Zhejiang University<img src="../assets\logo\zju.png" alt="ZJU" style="height: 1em; vertical-align: middle;"/> (2023.09-2026.03), advised by [Jingyuan Chen](https://scholar.google.com/citations?user=o_G2qa0AAAAJ). I am currently an Algorithm Engineer at Tencent. My research focuses on visual generation and multimodal understanding, with <a href='https://scholar.google.com/citations?user=6ykuTIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on Google Scholar.
+I received my B.S. from Zhejiang A&F University <img src="../assets\logo\zafu.png" alt="ZAFU" style="height: 1.2em; vertical-align: middle;"/>, where I actively participated in ACM competitions and advanced to the 2020 EC-Final. I obtained my master's degree from Zhejiang University<img src="../assets\logo\zju.png" alt="ZJU" style="height: 1em; vertical-align: middle;"/> (2023.09-2026.03), advised by [Jingyuan Chen](https://scholar.google.com/citations?user=o_G2qa0AAAAJ). I am currently an AI Algorithm Engineer at Tencent. My research focuses on visual generation and multimodal understanding, with <a href='https://scholar.google.com/citations?user=6ykuTIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on Google Scholar.
 
 
 Building on my internship experience with RL-based GUI agents, my current research centers on Multimodal Agents within digital environments, spanning web browsers, OS interfaces (PC/Mobile), and gaming scenarios.
 I am particularly driven by three core challenges in this field:
 
-* **Adaptive Reasoning**: Developing mechanisms to adaptively trigger ``thinking mode`` to minimize redundant computation and enhance efficiency.
-
 * **Long-Horizon Memory**: Enabling agents to efficiently store and retrieve action experiences during extended interactions.
 
-* **Real-Time Responsiveness**: Designing low-latency architectures for high-frequency interaction scenarios, such as video games.
+* **Agentic Reinforcement Learning**: Exploring scalable agent training paradigms such as *OpenClaw-RL: Train Any Agent Simply by Talking*, which lower the barrier of RL-based agent development through natural language driven training.
+
+* **World Model Grounded VLA**: Aligning Vision-Language-Action policies with physical priors from world models, enabling more grounded and generalizable decision-making.
 
 I am open to collaborations in multimodal understanding and reinforcement learning. If you are recruiting researchers or algorithm engineers, please feel free to contact me at [dqyzhwk@gmail.com](mailto:dqyzhwk@gmail.com).
 
@@ -67,7 +67,7 @@ Journal Reviewer
 - TOIS 2026
   
 # 💼 Experience
-- *2026.03 - Present*, Algorithm Engineer at Tencent, Shenzhen.
+- *2026.03 - Present*, AI Algorithm Engineer at Tencent, Shenzhen.
 
 # 📖 Educations
 - *2023.09 - 2026.03*, M.S., Zhejiang University, Hangzhou.
