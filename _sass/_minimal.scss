@@ -1,0 +1,279 @@
+/* ==========================================================================
+   MINIMAL THEME
+   Overrides loaded last in main.scss. Remove the import to restore the
+   original template look.
+   ========================================================================== */
+
+$minimal-content-width : 760px;
+$minimal-faint-color   : #afb8c1;
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  color: $text-color;
+  line-height: 1.7;
+}
+
+::selection {
+  background: rgba($link-color, 0.15);
+}
+
+/*
+   Masthead
+   ========================================================================== */
+
+.masthead {
+  background-color: rgba(255, 255, 255, 0.85);
+  -webkit-backdrop-filter: saturate(180%) blur(8px);
+          backdrop-filter: saturate(180%) blur(8px);
+  border-bottom: 1px solid $border-color;
+}
+
+.masthead__inner-wrap {
+  padding: 0.4em 1em;
+}
+
+.masthead__menu-item--lg {
+  padding-right: 1em;
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    font-size: 0.9rem;
+    letter-spacing: 0.01em;
+    color: $masthead-link-color;
+
+    &:hover {
+      color: $masthead-link-color-hover;
+    }
+  }
+
+  .visible-links {
+    li:first-child {
+      font-weight: 600;
+
+      a {
+        color: $text-color;
+      }
+    }
+
+    a:before {
+      height: 1px;
+      background: $text-color;
+    }
+  }
+
+  button {
+    background-color: transparent;
+  }
+
+  .navicon,
+  .navicon:before,
+  .navicon:after {
+    height: 2px;
+    background: $text-color;
+  }
+
+  .navicon:before {
+    top: -7px;
+  }
+
+  .navicon:after {
+    bottom: -7px;
+  }
+
+  .close .navicon {
+    background: transparent;
+
+    &:before,
+    &:after {
+      top: 0;
+      bottom: auto;
+    }
+  }
+
+  .hidden-links {
+    border-color: $border-color;
+    box-shadow: 0 4px 16px rgba(#000, 0.06);
+
+    a:hover {
+      background: rgba($text-color, 0.04);
+    }
+  }
+}
+
+/*
+   Layout
+   ========================================================================== */
+
+#main {
+  margin-top: 2.5em;
+  padding-left: 1.25em;
+  padding-right: 1.25em;
+}
+
+.page__content {
+  max-width: $minimal-content-width;
+
+  #about-me {
+    margin-top: 0;
+
+    &:before {
+      display: none;
+    }
+  }
+}
+
+/*
+   Sidebar
+   ========================================================================== */
+
+.author__avatar img {
+  max-width: 150px;
+
+  @include breakpoint($large) {
+    padding: 0;
+    border: 0;
+  }
+}
+
+.sidebar {
+  .author__name {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: $text-color;
+
+    @include breakpoint($medium) {
+      font-size: 1.25rem;
+    }
+  }
+
+  p.author__bio {
+    font-size: 0.9rem;
+    color: $muted-color;
+  }
+
+  .author__urls li {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: $muted-color;
+  }
+}
+
+.author__urls {
+  a {
+    font-size: 0.875rem;
+    color: $muted-color;
+
+    &:hover {
+      color: $text-color;
+      text-decoration: none;
+    }
+  }
+
+  i {
+    color: $minimal-faint-color;
+  }
+}
+
+.author__urls_sm a {
+  color: $muted-color;
+
+  &:hover {
+    color: $text-color;
+    text-decoration: none;
+  }
+}
+
+/*
+   Content
+   ========================================================================== */
+
+.page__content {
+  h1 {
+    margin: 2.75em 0 1em;
+    padding-bottom: 0.5em;
+    font-size: 1.2rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    color: $text-color;
+    border-bottom: 1px solid $border-color;
+  }
+
+  h1:first-of-type {
+    margin-top: 0;
+  }
+
+  p {
+    margin-bottom: 1em;
+  }
+
+  a {
+    color: $link-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+      text-underline-offset: 3px;
+
+      img {
+        box-shadow: none;
+      }
+    }
+  }
+
+  ul {
+    padding-left: 1.25em;
+  }
+
+  li {
+    margin-bottom: 0.6em;
+
+    &::marker {
+      color: $minimal-faint-color;
+    }
+
+    /* authors / dates rendered with *...* */
+    em {
+      font-style: normal;
+      color: $muted-color;
+
+      strong {
+        font-weight: 600;
+        color: $text-color;
+      }
+    }
+
+    /* venue tags rendered with ``...`` */
+    > code {
+      display: inline-block;
+      min-width: 7.5em;
+      margin-right: 0.5em;
+      padding: 0 0.5em;
+      font-family: $sans-serif;
+      font-size: 0.72rem;
+      font-weight: 600;
+      line-height: 1.75;
+      letter-spacing: 0.02em;
+      text-align: center;
+      vertical-align: 0.1em;
+      color: $link-color;
+      background: rgba($link-color, 0.07);
+      border: 0;
+      border-radius: 3px;
+      box-shadow: none;
+
+      &:before,
+      &:after {
+        content: none;
+      }
+    }
+  }
+}
