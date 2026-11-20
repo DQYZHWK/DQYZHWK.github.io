@@ -48,6 +48,7 @@ redirect_from:
 
 <section class="section" id="publications">
   <h2>Publications</h2>
+  <p class="note"><sup>*</sup>Equal contribution</p>
   <div class="entry entry--pub">
     <div class="entry__aside"><span class="venue-tag">IJCAI 2026</span></div>
     <div class="entry__body">
@@ -92,7 +93,7 @@ redirect_from:
     <div class="entry__aside"><span class="venue-tag">NeurIPS 2024</span></div>
     <div class="entry__body">
       <span class="entry__title">E<sup>3</sup>: Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset</span>
-      Wang Lin, <strong>Wenkang Han</strong>, Yueying Feng, Jingyuan Chen, et al.<br>
+      Wang Lin<sup>*</sup>, Yueying Feng<sup>*</sup>, <strong>Wenkang Han</strong><sup>*</sup>, Tao Jin, Zhou Zhao, Fei Wu, Chang Yao, Jingyuan Chen<br>
       <em>Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)</em>, 2024
     </div>
   </div>
@@ -154,7 +155,7 @@ redirect_from:
     </div>
   </div>
   <div class="entry">
-    <div class="entry__aside"><img class="logo logo--emblem" src="{{ '/assets/logo/zafu.png' | relative_url }}" alt="Zhejiang A&amp;F University"></div>
+    <div class="entry__aside"><img class="logo logo--emblem" src="{{ '/assets/logo/zafu_emblem.png' | relative_url }}" alt="Zhejiang A&amp;F University"></div>
     <div class="entry__body">
       <span class="entry__title">Zhejiang A&amp;F University</span>
       <em>B.S.</em>, 2018.09 - 2022.06, Hangzhou

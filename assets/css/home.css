@@ -195,7 +195,9 @@ strong {
 }
 
 .logo--emblem {
-  max-height: 72px;
+  width: 72px;
+  height: 72px;
+  max-height: none;
 }
 
 /* ---------- Plain lists ---------- */
@@ -285,6 +287,7 @@ strong {
   }
 
   .logo--emblem {
-    max-height: 52px;
+    width: 52px;
+    height: 52px;
   }
 }
